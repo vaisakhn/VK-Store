@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(24, 23, 23);
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 45px;
+}
+.hedaer h1{
+    margin: 0;
+}
+.logout{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
