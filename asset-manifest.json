@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VK-Store/static/css/main.f4753dad.css",
+    "main.js": "/VK-Store/static/js/main.c15a3075.js",
+    "static/js/787.dcc73137.chunk.js": "/VK-Store/static/js/787.dcc73137.chunk.js",
+    "index.html": "/VK-Store/index.html",
+    "main.f4753dad.css.map": "/VK-Store/static/css/main.f4753dad.css.map",
+    "main.c15a3075.js.map": "/VK-Store/static/js/main.c15a3075.js.map",
+    "787.dcc73137.chunk.js.map": "/VK-Store/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4753dad.css",
+    "static/js/main.c15a3075.js"
+  ]
+}
